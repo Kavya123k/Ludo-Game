@@ -23,7 +23,7 @@ npm run dev       # Start development server
 
 ## 📸 Screenshot
 
+📸 **Output Screenshot**  
+👉 [Click here to view on GitHub](https://github.com/Kavya123k/Ludo-Game/commit/ece1fe2d830f69ac2443ba97a32d3b9184baf0e3)
 
-OUTPUT 
-..-[click here](https://github.com/Kavya123k/Ludo-Game/commit/ece1fe2d830f69ac2443ba97a32d3b9184baf0e3#diff-2c394c85561a54d2fd16163bb3cd4f8d16fe7faa7410cd4100c12a585ed5884f)
 
