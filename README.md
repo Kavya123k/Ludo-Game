@@ -24,5 +24,6 @@ npm run dev       # Start development server
 ## 📸 Screenshot
 
 
-![Ludo Game Screenshot](Screenshot 2025-07-25 160552.png
+OUTPUT 
+..-[click here]()
 
