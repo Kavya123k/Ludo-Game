@@ -24,6 +24,5 @@ npm run dev       # Start development server
 ## 📸 Screenshot
 
 
-![Ludo Game Screenshot](<img width="1690" height="880" alt="Screenshot 2025-07-25 160552" src="https://github.com/user-attachments/assets/61749a85-57d2-46a0-b411-8710d3a74bbd" />
-)
+![Ludo Game Screenshot](
 
